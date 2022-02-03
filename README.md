@@ -1,5 +1,7 @@
 ## Introduction
 
+This is a super simple example project that demonstrates how to use JUnit 5 with Visual Studio Code.
+
 I installed the [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack),
 then I created a simple java project in vscode by doing:
 
